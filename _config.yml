@@ -1,0 +1,14 @@
+layout_spectrum: 0.37861220934428275
+typography_spectrum: 0.3307541301473975
+color:
+  brandStrength: 0.5178671623580158
+  lightness: 0.976684459252283
+  saturation: 0.49014976248145103
+  rhythmicContrast: 0.5437823114916682
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: 'http://tnl.org'
